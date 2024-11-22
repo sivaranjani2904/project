@@ -1,0 +1,64 @@
+<h2>About This Page</h2>
+        <div>This is a sample HTML webpage </div>
+        <h4>the following are the functions of this website</h4>
+        <ul>
+            <small>
+            <li>you can view our website 24/7</li>
+            <li>you can get help my our workers</li>
+        </small>
+        </ul>
+        <p>
+            this website gives you a full information about the website.
+            <code>Lorem ipsum dolor sit amet consectetur adipisicing elit.</code> 
+
+            <pre>Sunt natus, voluptates fugit beatae repudiandae dolorem,soluta autem quaerat harum ex pariatur! Inventore, 
+            recusandae dolore expedita delectus voluptates nulla sed atque.</pre>
+        </p>style="background-color:powderblue;"
+        <style>
+            .green-text {
+                color: green;
+    
+            }
+        </style>
+        <!DOCTYPE html>
+        <html lang="en">
+        
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title> Home </title>
+        
+        </head>
+        
+        <body>
+            <header>
+                <center>
+                    <h1 class="green-text">WELCOME TO W<sup>3</sup>SCHOOLS</h1>
+                </center>
+        
+            </header>
+            <nav>
+                <a href="index.html"><b>Home</b></a>
+                <a href="about.html"><b>About</b></a>
+                <a href="course.html"><b>Course</b></a>
+                <a href="contact.html"><b>Contact</b></a>
+            </nav>
+            <br>
+            <img src="C:\Users\ADMIN\Desktop\s\html\banner1.png" alt="a description og the image" width="1420" height="500">
+            
+        </main>
+        <br>
+        <hr>
+        <footer>
+            <center>
+                <p><s>© W<sub>3</sub>SCHOOLS</s></p>
+            </center>
+        </footer>
+        <main>g
+        <main>g
+        <main>g
+        
+        </body>
+        
+        </html>
+        
